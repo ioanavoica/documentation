@@ -127,7 +127,7 @@ can run
 
 ::
 
-    (venv)$ pip3 install coala-bears --pre
+    (venv)$ pip3 install coala-bears
 
 which will always install the most recent code from our master branch.
 
